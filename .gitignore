@@ -6,3 +6,7 @@
 /.cache
 /.classpath
 /.project
+/.ensime_lucene/
+/.ensime
+/post-01.sublime-project
+/post-01.sublime-workspace
